@@ -5,7 +5,7 @@ Completed a customer churn analysis simulation, demonstrating advanced data anal
 
 Conducted efficient data analysis using Python, including Pandas and NumPy. Employed data visualization techniques for insightful trend interpretation.
 
-Completed the engineering and optimization of a random forest model, achieving an 85% accuracy rate in predicting customer churn.
+Completed the engineering and optimization of a random forest model, achieving an 89% accuracy rate in predicting customer churn.
 
 Completed a concise executive summary for the Associate Director, delivering actionable insights for informed decision-making based on the analysis.
 
