@@ -27,7 +27,7 @@ Completed a concise executive summary for the Associate Director, delivering act
 
 ## Result/ Presentation
 
-[Executive Summary BCG X.pptx](https://github.com/reuel97/BCG-X-Data-Science/blob/main/Executive%20Summary%20BCG%20X.pptx)
+[Executive Summary BCG X.pdf](https://github.com/reuel97/BCG-X-Data-Science/blob/main/Executive%20Summary%20BCG%20X.pdf)
 
 ## Certification
 
